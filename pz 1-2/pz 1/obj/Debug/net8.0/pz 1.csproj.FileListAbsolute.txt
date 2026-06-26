@@ -1,0 +1,15 @@
+C:\Users\kk648\OneDrive\Desktop\University\семестр 6\Робота з даними ,Net\pz 1\pz 1\obj\Debug\net8.0\pz 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kk648\OneDrive\Desktop\University\семестр 6\Робота з даними ,Net\pz 1\pz 1\obj\Debug\net8.0\pz 1.AssemblyInfoInputs.cache
+C:\Users\kk648\OneDrive\Desktop\University\семестр 6\Робота з даними ,Net\pz 1\pz 1\obj\Debug\net8.0\pz 1.AssemblyInfo.cs
+C:\Users\kk648\OneDrive\Desktop\University\семестр 6\Робота з даними ,Net\pz 1\pz 1\obj\Debug\net8.0\pz 1.csproj.CoreCompileInputs.cache
+C:\Users\kk648\OneDrive\Desktop\University\семестр 6\Робота з даними ,Net\pz 1\pz 1\obj\Debug\net8.0\pz 1.sourcelink.json
+C:\Users\kk648\OneDrive\Desktop\University\семестр 6\Робота з даними ,Net\pz 1\pz 1\bin\Debug\net8.0\pz 1.exe
+C:\Users\kk648\OneDrive\Desktop\University\семестр 6\Робота з даними ,Net\pz 1\pz 1\bin\Debug\net8.0\pz 1.deps.json
+C:\Users\kk648\OneDrive\Desktop\University\семестр 6\Робота з даними ,Net\pz 1\pz 1\bin\Debug\net8.0\pz 1.runtimeconfig.json
+C:\Users\kk648\OneDrive\Desktop\University\семестр 6\Робота з даними ,Net\pz 1\pz 1\bin\Debug\net8.0\pz 1.dll
+C:\Users\kk648\OneDrive\Desktop\University\семестр 6\Робота з даними ,Net\pz 1\pz 1\bin\Debug\net8.0\pz 1.pdb
+C:\Users\kk648\OneDrive\Desktop\University\семестр 6\Робота з даними ,Net\pz 1\pz 1\obj\Debug\net8.0\pz 1.dll
+C:\Users\kk648\OneDrive\Desktop\University\семестр 6\Робота з даними ,Net\pz 1\pz 1\obj\Debug\net8.0\refint\pz 1.dll
+C:\Users\kk648\OneDrive\Desktop\University\семестр 6\Робота з даними ,Net\pz 1\pz 1\obj\Debug\net8.0\pz 1.pdb
+C:\Users\kk648\OneDrive\Desktop\University\семестр 6\Робота з даними ,Net\pz 1\pz 1\obj\Debug\net8.0\pz 1.genruntimeconfig.cache
+C:\Users\kk648\OneDrive\Desktop\University\семестр 6\Робота з даними ,Net\pz 1\pz 1\obj\Debug\net8.0\ref\pz 1.dll
