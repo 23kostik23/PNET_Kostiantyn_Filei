@@ -1,0 +1,15 @@
+C:\Users\kk648\OneDrive\Desktop\University\semester 6\Робота з даними ,Net\пз 1-2\pz 2\pz 2\bin\Debug\net8.0\pz 2.exe
+C:\Users\kk648\OneDrive\Desktop\University\semester 6\Робота з даними ,Net\пз 1-2\pz 2\pz 2\bin\Debug\net8.0\pz 2.deps.json
+C:\Users\kk648\OneDrive\Desktop\University\semester 6\Робота з даними ,Net\пз 1-2\pz 2\pz 2\bin\Debug\net8.0\pz 2.runtimeconfig.json
+C:\Users\kk648\OneDrive\Desktop\University\semester 6\Робота з даними ,Net\пз 1-2\pz 2\pz 2\bin\Debug\net8.0\pz 2.dll
+C:\Users\kk648\OneDrive\Desktop\University\semester 6\Робота з даними ,Net\пз 1-2\pz 2\pz 2\bin\Debug\net8.0\pz 2.pdb
+C:\Users\kk648\OneDrive\Desktop\University\semester 6\Робота з даними ,Net\пз 1-2\pz 2\pz 2\obj\Debug\net8.0\pz 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kk648\OneDrive\Desktop\University\semester 6\Робота з даними ,Net\пз 1-2\pz 2\pz 2\obj\Debug\net8.0\pz 2.AssemblyInfoInputs.cache
+C:\Users\kk648\OneDrive\Desktop\University\semester 6\Робота з даними ,Net\пз 1-2\pz 2\pz 2\obj\Debug\net8.0\pz 2.AssemblyInfo.cs
+C:\Users\kk648\OneDrive\Desktop\University\semester 6\Робота з даними ,Net\пз 1-2\pz 2\pz 2\obj\Debug\net8.0\pz 2.csproj.CoreCompileInputs.cache
+C:\Users\kk648\OneDrive\Desktop\University\semester 6\Робота з даними ,Net\пз 1-2\pz 2\pz 2\obj\Debug\net8.0\pz 2.sourcelink.json
+C:\Users\kk648\OneDrive\Desktop\University\semester 6\Робота з даними ,Net\пз 1-2\pz 2\pz 2\obj\Debug\net8.0\pz 2.dll
+C:\Users\kk648\OneDrive\Desktop\University\semester 6\Робота з даними ,Net\пз 1-2\pz 2\pz 2\obj\Debug\net8.0\refint\pz 2.dll
+C:\Users\kk648\OneDrive\Desktop\University\semester 6\Робота з даними ,Net\пз 1-2\pz 2\pz 2\obj\Debug\net8.0\pz 2.pdb
+C:\Users\kk648\OneDrive\Desktop\University\semester 6\Робота з даними ,Net\пз 1-2\pz 2\pz 2\obj\Debug\net8.0\pz 2.genruntimeconfig.cache
+C:\Users\kk648\OneDrive\Desktop\University\semester 6\Робота з даними ,Net\пз 1-2\pz 2\pz 2\obj\Debug\net8.0\ref\pz 2.dll
